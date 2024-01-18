@@ -77,6 +77,7 @@ Macros and config files are separeted in folders.
 - Front switch on/off nevermore filter 19mm button (https://es.aliexpress.com/store/910784019?spm=a2g0o.order_list.order_list_main.229.3c7f194d6W0oNH)
 - Fysetc hot key buttons (https://www.fysetc.com/products/fysetc-hot-key-board-voron-skirt-button-pcb-voron-skirt-klipper-pre-installed-pcb-board-with-neopixel-led-for-voron-v2-4-trident-switchwire-3d-printers)
 - Top chamber led strip lights (https://www.printables.com/es/model/84735-led-strip-holder-for-voron-24)
-- Scrubber (https://es.aliexpress.com/item/1005005790811112.html?spm=a2g0o.order_list.order_list_main.95.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
+- Scrubber (https://www.printables.com/es/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24)
+   (https://es.aliexpress.com/item/1005005790811112.html?spm=a2g0o.order_list.order_list_main.95.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 - Magnetic panels (https://mods.vorondesign.com/detail/GawFyXN2J0rlSecCAJUpZQ)
 - 270° Front Panel Hinge (https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg)
