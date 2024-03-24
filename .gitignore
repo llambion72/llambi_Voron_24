@@ -1,3 +1,10 @@
-saved_variables.cfg
-adxl_results/belts/*.csv
-adxl_results/vibrations/*.tar.gz
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+secrets.conf
+*.bak
+*.bkp
+*.csv
+*.zip
