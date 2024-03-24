@@ -4,6 +4,7 @@ secrets.conf
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
 secrets.conf
+Secrets.conf
 *.bak
 *.bkp
 *.csv
