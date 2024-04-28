@@ -1,8 +1,8 @@
-# Voron 2.XXXX
-This repo contains data on V2.XXXX. 
+# Voron 2.7018
+This repo contains data on V2.7018. 
 
 ## Config
-Klipper configs for V2.XXXX (V2.4 300) printer running fluidd.
+Klipper configs for V2.7018 (V2.4 300) printer running fluidd.
 Macros and config files are separeted in folders.
 
 ## Main Components
@@ -13,7 +13,7 @@ Macros and config files are separeted in folders.
 - Z Motors: Stepperonline
 - MCU: Spider 2.3 w/ TMC2209
 - PSU 24v: Mean Well RSP-200-24
-- PSU 5v: Tobsun stepdown 24/12 to 5v
+- PSU 5v: Mean Well LRS-50-5
 - Host: Raspberry Pi 3 Model B+ 
 - Display: BTT HDMI 5'
 - Camera: Raspi Camera 
