@@ -30,7 +30,7 @@ Macros and config files are separeted in folders.
 - Hotend fan: 40x40x10 Axial Fan (24V)
 - Partcooling fan: 50×50×15 Centrifugal Fan (24V)
 - Extruder: BMG extruder
-- Probe: ChaoticLabs TAP
+- Probe: Cartographer
 
 ### Enclosure
 - Coroplast Sheet - 420x420x4 mm	x2
@@ -67,7 +67,7 @@ Macros and config files are separeted in folders.
 			LAN (https://es.aliexpress.com/item/1005005530128870.html?spm=a2g0o.order_list.order_list_main.202.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 			USB (https://es.aliexpress.com/item/1005001386941952.html?spm=a2g0o.order_list.order_list_main.167.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 	* In front, print 250mm front-left skirt and 350mm on front-right in order to maximize space for hotkeys
-- ChaoticLabs Tap V2 (https://chaoticlab.xyz/products/cnc-voron-tap)
+- Cartographer (https://cartographer3d.com/)
 - Umbilical CanBus EBB2209 (https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0)
 - 5' BTT HDMI Touch screen (https://biqu.equipment/products/bigtreetech-hdmi5-v1-0-hdmi7-v1-0)
 - BTT SFS 2.0 filament detector (https://biqu.equipment/collections/expansion-board/products/btt-sfs-v2-0-smart-filament-sensor)
