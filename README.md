@@ -14,7 +14,7 @@ Macros and config files are separeted in folders.
 - MCU: Spider 2.3 w/ TMC2209
 - PSU 24v: Mean Well RSP-200-24
 - PSU 5v: Mean Well LRS-50-5
-- Host: Raspberry Pi 3 Model B+ 
+- Host: Orange Pi 5 Pro 4 Gb
 - Display: BTT HDMI 5'
 - Camera: Raspi Camera 
 - Relay: Shelly 1PM+
