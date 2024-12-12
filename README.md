@@ -1,5 +1,6 @@
 # Voron 2.7018
-This repo contains data on V2.7018. 
+This repo contains data on V2.7018.
+Last Hardware update 05/12/2024
 
 ## Config
 Klipper configs for V2.7018 (V2.4 300) printer running fluidd.
@@ -20,8 +21,8 @@ Macros and config files are separeted in folders.
 - Relay: Shelly 1PM+
 
 ### CAN BUS toolhead
-- Board: BTT EBB2209
-- Control board: BTT U2C
+- Board: Spider 3.0 H7
+- Control board: EBB2209
 
 
 ### Toolhead
@@ -29,7 +30,7 @@ Macros and config files are separeted in folders.
 - Hotend: Phaetus Dragon HF Blue
 - Hotend fan: 40x40x10 Axial Fan (24V)
 - Partcooling fan: 50×50×15 Centrifugal Fan (24V)
-- Extruder: BMG extruder
+- Extruder: Galileo 2 (12/24)
 - Probe: Cartographer
 
 ### Enclosure
@@ -57,25 +58,36 @@ Macros and config files are separeted in folders.
 - SSR: Delixi SSR CDG1-1DA/10A DC control AC
 - Heater pad: Silicone AC Heater w/ thermistor - 250x250mm (450W)
 - Buildplate: Universal, 300x300x8mm
-- PEI: Double-sided PEI platform 300×300mm
+- PEI: Fysetc Double-sided PEI platform 300×300mm
 
 ## Modifications
-- [Nevermore v5 duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo/V2)
+- Top Filament passthrough (06/24)
+- 2 Spooler top filament mount (12/24)
+- HX711 scale Spooler mount (12/24)
+- Nevermore 6 micro (https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6)
+- 2x The filter (left and right) one fan.
+- 1x The filter mod HEPA fan
 - Skirt mods
-	* Move plug to left-back skirt
-    * Add USB and LAN keystone inserts on left-front skirt
+    	* Move plug to left-back skirt
+    	* Add USB and LAN keystone inserts on left-front skirt
 			LAN (https://es.aliexpress.com/item/1005005530128870.html?spm=a2g0o.order_list.order_list_main.202.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 			USB (https://es.aliexpress.com/item/1005001386941952.html?spm=a2g0o.order_list.order_list_main.167.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 	* In front, print 250mm front-left skirt and 350mm on front-right in order to maximize space for hotkeys
+	* Add inserts for adxl345 connector
 - Cartographer (https://cartographer3d.com/)
 - Umbilical CanBus EBB2209 (https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0)
-- 5' BTT HDMI Touch screen (https://biqu.equipment/products/bigtreetech-hdmi5-v1-0-hdmi7-v1-0)
-- BTT SFS 2.0 filament detector (https://biqu.equipment/collections/expansion-board/products/btt-sfs-v2-0-smart-filament-sensor)
-- 7 ports USB HUB for raspi (https://es.aliexpress.com/item/1005005777369351.html?spm=a2g0o.order_list.order_list_main.74.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
-- Stepdown 24/12 to 5v to power usb hub and raspberry pi (https://es.aliexpress.com/item/1005002411614827.html?spm=a2g0o.order_list.order_list_main.85.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
+- New front-end screen and hoy key buttons mount (12/24)
+	- 5' BTT HDMI Touch screen (https://biqu.equipment/products/bigtreetech-hdmi5-v1-0-hdmi7-v1-0)
+	- Fysetc hot key buttons (https://www.fysetc.com/products/fysetc-hot-key-board-voron-skirt-button-pcb-voron-skirt-klipper-pre-installed-pcb-board-with-neopixel-led-for-voron-v2-4-trident-switchwire-3d-printers)
+- ERCF filament sensor mod (12/24)
+- Klipper Expander board (12/24)
+- 8x8 Led Panel (12/24)
+- VOC sensors (12/24)
+- 	2x BM280 Sensors (Inside, outside)
+- 	2x SGP40 VOCs sensors (Inside, Outside)
+- 	1x BM680 VOCs sensor (Outside)
 - Front power 19mm button with voron logo (https://es.aliexpress.com/item/1005004326280128.html?spm=a2g0o.order_list.order_list_main.247.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 - Front switch on/off nevermore filter 19mm button (https://es.aliexpress.com/store/910784019?spm=a2g0o.order_list.order_list_main.229.3c7f194d6W0oNH)
-- Fysetc hot key buttons (https://www.fysetc.com/products/fysetc-hot-key-board-voron-skirt-button-pcb-voron-skirt-klipper-pre-installed-pcb-board-with-neopixel-led-for-voron-v2-4-trident-switchwire-3d-printers)
 - Top chamber led strip lights (https://www.printables.com/es/model/84735-led-strip-holder-for-voron-24)
 - Scrubber (https://www.printables.com/es/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24)
    (https://es.aliexpress.com/item/1005005790811112.html?spm=a2g0o.order_list.order_list_main.95.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
