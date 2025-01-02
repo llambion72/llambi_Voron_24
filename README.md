@@ -3,8 +3,16 @@ This repo contains data on V2.7018.
 Last Hardware update 05/12/2024
 
 ## Config
-Klipper configs for V2.7018 (V2.4 300) printer running fluidd.
+Kalico configs for V2.7018 (V2.4 300) printer running fluidd.
 Macros and config files are separeted in folders.
+
+Plugins
+- SPG40 (https://github.com/thetic/klipper-sgp40)
+- klipper Maintenance (https://3dcoded.github.io/KlipperMaintenance/)
+- Led Effects (https://github.com/julianschill/klipper-led_effect)
+- Telegram bot (https://github.com/nlef/moonraker-telegram-bot)
+- klipperscreen (https://klipperscreen.readthedocs.io/en/latest/)
+- klipper backup (https://klipperbackup.xyz/)
 
 ## Main Components
 #  Syboor Voron 2.4 300 Kit Jun'23
@@ -12,7 +20,7 @@ Macros and config files are separeted in folders.
 ### Electronics
 - A/B Motors: Stepperonline
 - Z Motors: Stepperonline
-- MCU: Spider 2.3 w/ TMC2209
+- MCU: Spider 3.0 H7 w/TMC2240 x4 (Z) / TMC2209 x2 (XY)
 - PSU 24v: Mean Well RSP-200-24
 - PSU 5v: Mean Well LRS-50-5
 - Host: Orange Pi 5 Pro 4 Gb
