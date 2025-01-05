@@ -38,7 +38,7 @@ Plugins
 - Hotend: Phaetus Dragon HF Blue
 - Hotend fan: 40x40x10 Axial Fan (24V)
 - Partcooling fan: 50×50×15 Centrifugal Fan (24V)
-- Extruder: Galileo 2 (12/24)
+- Extruder: Galileo 2 (12/24) (https://github.com/JaredC01/Galileo2)
 - Probe: Cartographer
 
 ### Enclosure
