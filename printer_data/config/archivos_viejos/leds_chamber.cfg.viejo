@@ -1,0 +1,17 @@
+
+[gcode_macro set_chamber_leds_ROV]
+description: Colores azul y blanco alternativamente.
+gcode:
+#    SET_BAR_LEDS_OFF
+
+    {% for I in range(1,30, 3) %}
+        SET_LED LED=leds_camara RED=0 GREEN=0 BLUE=1 TRANSMIT=1 index={I}
+        SET_LED LED=leds_camara RED=0 GREEN=0 BLUE=1 TRANSMIT=1 index={I+1}
+        SET_LED LED=leds_camara RED=1 GREEN=1 BLUE=1 TRANSMIT=1 index={I+2}
+    {% endfor %}
+
+
+
+
+
+
