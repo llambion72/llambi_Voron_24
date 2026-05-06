@@ -104,7 +104,7 @@ Plugins
 
 - Blobifier (06/25)
 - FilamAtrix (08/25)
-- QuattroBox only case (12/25)
+- QuattroBox case only (12/25)
 
 ## MMU - Tradrack (2025-2026)
 - 9 Lines
