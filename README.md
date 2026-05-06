@@ -1,6 +1,6 @@
 # Voron 2.7018
 This repo contains data on V2.7018.
-Last Hardware update 05/12/2025
+Last Hardware update 2026 -> updating
 
 ## Config
 Kalico configs for V2.7018 (V2.4 300) printer running fluidd.
