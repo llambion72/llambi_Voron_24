@@ -68,13 +68,28 @@ Plugins
 - Buildplate: Universal, 300x300x8mm
 - PEI: Fysetc Double-sided PEI platform 300×300mm
 
+## Addons
+- Cartographer V3 (https://cartographer3d.com/) 10/24
+- Blobifier (06/25)
+- FilamAtrix (08/25)
+- QuattroBox case only with 4 filamentalist (12/25)
+- 2x The filter (left and right) one fan.
+- 1x The filter (center) two fans.
+- 1x The filter mod HEPA fan
+- Scrubber (https://www.printables.com/es/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24)
+   (https://es.aliexpress.com/item/1005005790811112.html?spm=a2g0o.order_list.order_list_main.95.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
+- VOC sensors (12/24)
+- 2x BME280 Sensors (Inside, outside)
+- 2x SGP40 VOCs sensors (Inside, Outside)
+- 1x BME680 VOCs sensor (Outside)
+- Klipper Expander board (12/24)
+- 8x8 Led Panel (12/24)
+- Top chamber led strip lights (https://www.printables.com/es/model/84735-led-strip-holder-for-voron-24)
+
 ## Modifications
 - Top Filament passthrough (06/24)
-- 2 Spooler top filament mount (12/24)
+- Spooler top filament mount (12/24)
 - HX711 scale Spooler mount (12/24)
-- Nevermore 6 micro (https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6)
-- 2x The filter (left and right) one fan.
-- 1x The filter mod HEPA fan
 - Skirt mods
     	* Move plug to left-back skirt
     	* Add USB and LAN keystone inserts on left-front skirt
@@ -82,30 +97,15 @@ Plugins
 			USB (https://es.aliexpress.com/item/1005001386941952.html?spm=a2g0o.order_list.order_list_main.167.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 	* In front, print 250mm front-left skirt and 350mm on front-right in order to maximize space for hotkeys
 	* Add inserts for adxl345 connector
-- Cartographer (https://cartographer3d.com/)
 - Umbilical CanBus EBB2209 (https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0)
 - New front-end screen and hoy key buttons mount (12/24)
 	- 5' BTT HDMI Touch screen (https://biqu.equipment/products/bigtreetech-hdmi5-v1-0-hdmi7-v1-0)
 	- Fysetc hot key buttons (https://www.fysetc.com/products/fysetc-hot-key-board-voron-skirt-button-pcb-voron-skirt-klipper-pre-installed-pcb-board-with-neopixel-led-for-voron-v2-4-trident-switchwire-3d-printers)
-- ERCF filament sensor mod (12/24)
-- Klipper Expander board (12/24)
-- 8x8 Led Panel (12/24)
-- VOC sensors (12/24)
-- 	2x BME280 Sensors (Inside, outside)
-- 	2x SGP40 VOCs sensors (Inside, Outside)
-- 	1x BME680 VOCs sensor (Outside)
 - Front power 19mm button with voron logo (https://es.aliexpress.com/item/1005004326280128.html?spm=a2g0o.order_list.order_list_main.247.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 - Front switch on/off nevermore filter 19mm button (https://es.aliexpress.com/store/910784019?spm=a2g0o.order_list.order_list_main.229.3c7f194d6W0oNH)
-- Top chamber led strip lights (https://www.printables.com/es/model/84735-led-strip-holder-for-voron-24)
-- Scrubber (https://www.printables.com/es/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24)
-   (https://es.aliexpress.com/item/1005005790811112.html?spm=a2g0o.order_list.order_list_main.95.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 - Magnetic panels (https://mods.vorondesign.com/detail/GawFyXN2J0rlSecCAJUpZQ)
 - 270° Front Panel Hinge (https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg)
 
-- Blobifier (06/25)
-- FilamAtrix (08/25)
-- QuattroBox case only (12/25)
-
 ## MMU - Tradrack (2025-2026)
 - 9 Lines
-- 
+- Black and Red
