@@ -1,6 +1,6 @@
 # Voron 2.7018
 This repo contains data on V2.7018.
-Last Hardware update 05/12/2024
+Last Hardware update 05/12/2025
 
 ## Config
 Kalico configs for V2.7018 (V2.4 300) printer running fluidd.
@@ -101,3 +101,11 @@ Plugins
    (https://es.aliexpress.com/item/1005005790811112.html?spm=a2g0o.order_list.order_list_main.95.3c7f194d6W0oNH&gatewayAdapt=glo2esp)
 - Magnetic panels (https://mods.vorondesign.com/detail/GawFyXN2J0rlSecCAJUpZQ)
 - 270° Front Panel Hinge (https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg)
+
+- Blobifier (06/25)
+- FilamAtrix (08/25)
+- QuattroBox only case (12/25)
+
+## MMU - Tradrack (2025-2026)
+- 9 Lines
+- 
